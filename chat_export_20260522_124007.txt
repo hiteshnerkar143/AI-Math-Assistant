@@ -1,0 +1,20 @@
+=== AI Math Assistant Chat History ===
+Exported: 2026-05-22 12:40:07
+========================================
+
+Entry 1:
+Time: 2026-05-22T12:39:51.810718
+Question: add 2 3
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 2:
+Time: 2026-05-22T12:39:59.302089
+Question: 2 3 add
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
