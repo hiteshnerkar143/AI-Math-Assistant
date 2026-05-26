@@ -1,0 +1,540 @@
+=== AI Math Assistant Chat History ===
+Exported: 2026-05-26 10:54:21
+========================================
+
+Entry 1:
+Time: 2026-05-22T12:39:51.810718
+Question: add 2 3
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 2:
+Time: 2026-05-22T12:39:59.302089
+Question: 2 3 add
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 3:
+Time: 2026-05-22T12:40:16.652425
+Question: sqrt 45
+Answer: √45.0 = 6.708203932499369
+Operation: sqrt
+Confidence: 0.09506446549747104
+----------------------------------------
+
+Entry 4:
+Time: 2026-05-22T12:40:19.676387
+Question: sqrt 4
+Answer: √4.0 = 2.0
+Operation: sqrt
+Confidence: 0.09506446549747104
+----------------------------------------
+
+Entry 5:
+Time: 2026-05-22T12:40:34.246321
+Question: 3 + 4
+Answer: 3.0 + 4.0 = 7.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 6:
+Time: 2026-05-22T12:44:58.213308
+Question: 3 4 add
+Answer: 3.0 + 4.0 = 7.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 7:
+Time: 2026-05-22T12:45:02.128267
+Question: 3 plus 4
+Answer: 3.0 + 4.0 = 7.0
+Operation: add
+Confidence: 0.11710086306182188
+----------------------------------------
+
+Entry 8:
+Time: 2026-05-22T12:45:08.187094
+Question: 100 plus 100
+Answer: 100.0 + 100.0 = 200.0
+Operation: add
+Confidence: 0.11710086306182188
+----------------------------------------
+
+Entry 9:
+Time: 2026-05-22T12:45:20.326020
+Question: add karo 100 34
+Answer: 100.0 + 34.0 = 134.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 10:
+Time: 2026-05-22T12:45:28.237483
+Question: 100 minus 100
+Answer: 100.0 - 100.0 = 0.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 11:
+Time: 2026-05-22T12:45:35.076241
+Question: kaam karo 100 100
+Answer: 100.0 + 100.0 = 200.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 12:
+Time: 2026-05-22T13:33:43.261294
+Question: add 4 5 5 5 6
+Answer: 4.0 + 5.0 = 9.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 13:
+Time: 2026-05-22T13:33:47.978223
+Question: add 3 4
+Answer: 3.0 + 4.0 = 7.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 14:
+Time: 2026-05-22T13:34:43.728512
+Question: add 4 5
+Answer: 4.0 + 5.0 = 9.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 15:
+Time: 2026-05-22T13:36:35.198131
+Question: mean of 10 20 30 40
+Answer: I understood 'mean' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: mean
+Confidence: 0.11941013110161768
+----------------------------------------
+
+Entry 16:
+Time: 2026-05-22T13:36:52.950231
+Question: "mean of 10 20 30 "
+Answer: I understood 'mean' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: mean
+Confidence: 0.11941013110161768
+----------------------------------------
+
+Entry 17:
+Time: 2026-05-22T13:37:02.003340
+Question: mean 10 20 30
+Answer: I understood 'mean' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: mean
+Confidence: 0.11941013110161768
+----------------------------------------
+
+Entry 18:
+Time: 2026-05-22T13:37:05.203472
+Question: 10 20 30
+Answer: 10.0 + 20.0 = 30.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 19:
+Time: 2026-05-22T13:37:42.156739
+Question: sub 2 3 2 3
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 20:
+Time: 2026-05-22T13:37:45.353857
+Question: sub 2 e
+Answer: I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 21:
+Time: 2026-05-22T13:37:47.654339
+Question: sub  23
+Answer: I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 22:
+Time: 2026-05-22T13:37:50.194872
+Question: sub  2 3
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 23:
+Time: 2026-05-22T13:37:55.336899
+Question: 3 minus 3
+Answer: 3.0 - 3.0 = 0.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 24:
+Time: 2026-05-22T13:38:03.642490
+Question: 2 sub  3
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 25:
+Time: 2026-05-25T11:18:32.444262
+Question: add 24
+Answer: I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 26:
+Time: 2026-05-25T11:18:38.798029
+Question: add 2 4
+Answer: 2.0 + 4.0 = 6.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 27:
+Time: 2026-05-25T11:41:23.204721
+Question: send 2 3
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 28:
+Time: 2026-05-25T11:41:27.345924
+Question: sqrt 225
+Answer: √225.0 = 15.0
+Operation: sqrt
+Confidence: 0.09506446549747104
+----------------------------------------
+
+Entry 29:
+Time: 2026-05-25T11:41:31.592574
+Question: power 2 3
+Answer: 2.0 ^ 3.0 = 8.0
+Operation: power
+Confidence: 0.1671596852432853
+----------------------------------------
+
+Entry 30:
+Time: 2026-05-25T11:41:41.203232
+Question: minus 4 5
+Answer: 4.0 - 5.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 31:
+Time: 2026-05-25T11:42:07.323882
+Question: 3 4 minus
+Answer: 3.0 - 4.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 32:
+Time: 2026-05-25T11:42:11.605936
+Question: 5 6 minus
+Answer: 5.0 - 6.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 33:
+Time: 2026-05-25T11:42:18.500729
+Question: 2 3 minus
+Answer: 2.0 - 3.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 34:
+Time: 2026-05-25T11:42:22.567219
+Question: 8 9 minus
+Answer: 8.0 - 9.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 35:
+Time: 2026-05-25T11:49:56.725273
+Question: add 345 5 5
+Answer: 345.0 + 5.0 = 350.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 36:
+Time: 2026-05-25T11:53:06.341707
+Question: power2 5
+Answer: 2.0 + 5.0 = 7.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 37:
+Time: 2026-05-25T11:53:12.331329
+Question: power 2 5
+Answer: 2.0 ^ 5.0 = 32.0
+Operation: power
+Confidence: 0.1671596852432853
+----------------------------------------
+
+Entry 38:
+Time: 2026-05-25T11:53:27.895275
+Question: add 4 5
+Answer: 4.0 + 5.0 = 9.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 39:
+Time: 2026-05-25T11:54:08.344090
+Question: sqrt  4 5
+Answer: I understood 'sqrt' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: sqrt
+Confidence: 0.09506446549747104
+----------------------------------------
+
+Entry 40:
+Time: 2026-05-25T11:54:13.483732
+Question: sqrt 625
+Answer: √625.0 = 25.0
+Operation: sqrt
+Confidence: 0.09506446549747104
+----------------------------------------
+
+Entry 41:
+Time: 2026-05-25T11:54:23.373016
+Question: 3 4 minus
+Answer: 3.0 - 4.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 42:
+Time: 2026-05-25T11:54:27.944422
+Question: 4 5 6 minus
+Answer: 4.0 - 5.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 43:
+Time: 2026-05-25T11:57:24.670074
+Question: minus 2 3
+Answer: 2.0 - 3.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 44:
+Time: 2026-05-25T12:02:10.638314
+Question: kaam karo 3 8
+Answer: 3.0 + 8.0 = 11.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 45:
+Time: 2026-05-25T12:27:48.226338
+Question: 10 plus 10
+Answer: 10.0 + 10.0 = 20.0
+Operation: add
+Confidence: 0.11710086306182188
+----------------------------------------
+
+Entry 46:
+Time: 2026-05-25T12:39:56.680064
+Question: add karo 1 23
+Answer: 1.0 + 23.0 = 24.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 47:
+Time: 2026-05-25T12:55:14.444508
+Question: add send 2 3
+Answer: 2.0 + 3.0 = 5.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 48:
+Time: 2026-05-25T12:58:55.392692
+Question: mix 3 4
+Answer: 3.0 + 4.0 = 7.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 49:
+Time: 2026-05-25T12:59:02.808772
+Question: 2 kam 2
+Answer: 2.0 + 2.0 = 4.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 50:
+Time: 2026-05-25T12:59:13.617749
+Question: 2 - 2
+Answer: 2.0 + 2.0 = 4.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 51:
+Time: 2026-05-25T12:59:18.184964
+Question: 10 - 20
+Answer: 10.0 + 20.0 = 30.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 52:
+Time: 2026-05-25T12:59:26.544035
+Question: 10 - 30
+Answer: 10.0 + 30.0 = 40.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 53:
+Time: 2026-05-25T13:19:37.791972
+Question: minus 2 3
+Answer: 2.0 - 3.0 = -1.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 54:
+Time: 2026-05-25T13:19:42.101851
+Question: minus 100 100
+Answer: 100.0 - 100.0 = 0.0
+Operation: subtract
+Confidence: 0.1180156074258926
+----------------------------------------
+
+Entry 55:
+Time: 2026-05-25T13:24:47.354998
+Question: sqrt karo 125
+Answer: √125.0 = 11.180339887498949
+Operation: sqrt
+Confidence: 0.09506446549747104
+----------------------------------------
+
+Entry 56:
+Time: 2026-05-25T13:24:56.388503
+Question: sqauare karo 12
+Answer: I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 57:
+Time: 2026-05-25T13:25:01.380547
+Question: square 22
+Answer: √22.0 = 4.69041575982343
+Operation: sqrt
+Confidence: 0.1027634005939254
+----------------------------------------
+
+Entry 58:
+Time: 2026-05-26T10:30:36.561504
+Question: add 4 6
+Answer: 4.0 + 6.0 = 10.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 59:
+Time: 2026-05-26T10:31:30.666512
+Question: sin 90
+Answer: sin(90.0°) = 1.000000
+Operation: sin
+Confidence: 0.07414510123418519
+----------------------------------------
+
+Entry 60:
+Time: 2026-05-26T10:31:36.155848
+Question: cos 0
+Answer: cos(0.0°) = 1.000000
+Operation: cos
+Confidence: 0.07414510123418519
+----------------------------------------
+
+Entry 61:
+Time: 2026-05-26T10:31:42.584614
+Question: cos 90
+Answer: cos(90.0°) = 0.000000
+Operation: cos
+Confidence: 0.07414510123418519
+----------------------------------------
+
+Entry 62:
+Time: 2026-05-26T10:32:12.150146
+Question: sin of 90
+Answer: sin(90.0°) = 1.000000
+Operation: sin
+Confidence: 0.07414510123418519
+----------------------------------------
+
+Entry 63:
+Time: 2026-05-26T10:53:46.176435
+Question: Add 3 4
+Answer: 3.0 + 4.0 = 7.0
+Operation: add
+Confidence: 0.1442864665743297
+----------------------------------------
+
+Entry 64:
+Time: 2026-05-26T10:53:49.639167
+Question: sub 4 5
+Answer: 4.0 + 5.0 = 9.0
+Operation: add
+Confidence: 0.06329113924050633
+----------------------------------------
+
+Entry 65:
+Time: 2026-05-26T10:53:54.442458
+Question: multiply 4 5
+Answer: 4.0 × 5.0 = 20.0
+Operation: multiply
+Confidence: 0.1671596852432853
+----------------------------------------
+
+Entry 66:
+Time: 2026-05-26T10:54:00.747375
+Question: sqrt 225
+Answer: √225.0 = 15.0
+Operation: sqrt
+Confidence: 0.09506446549747104
+----------------------------------------
+
+Entry 67:
+Time: 2026-05-26T10:54:03.597850
+Question: sin 90
+Answer: sin(90.0°) = 1.000000
+Operation: sin
+Confidence: 0.07414510123418519
+----------------------------------------
+

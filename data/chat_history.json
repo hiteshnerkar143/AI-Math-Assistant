@@ -432,5 +432,40 @@
     "answer": "sin(90.0°) = 1.000000",
     "operation": "sin",
     "confidence": 0.07414510123418519
+  },
+  {
+    "timestamp": "2026-05-26T10:53:46.176435",
+    "question": "Add 3 4",
+    "answer": "3.0 + 4.0 = 7.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-26T10:53:49.639167",
+    "question": "sub 4 5",
+    "answer": "4.0 + 5.0 = 9.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-26T10:53:54.442458",
+    "question": "multiply 4 5",
+    "answer": "4.0 × 5.0 = 20.0",
+    "operation": "multiply",
+    "confidence": 0.1671596852432853
+  },
+  {
+    "timestamp": "2026-05-26T10:54:00.747375",
+    "question": "sqrt 225",
+    "answer": "√225.0 = 15.0",
+    "operation": "sqrt",
+    "confidence": 0.09506446549747104
+  },
+  {
+    "timestamp": "2026-05-26T10:54:03.597850",
+    "question": "sin 90",
+    "answer": "sin(90.0°) = 1.000000",
+    "operation": "sin",
+    "confidence": 0.07414510123418519
   }
 ]
