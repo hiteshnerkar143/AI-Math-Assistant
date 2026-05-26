@@ -75,5 +75,362 @@
     "answer": "100.0 + 100.0 = 200.0",
     "operation": "add",
     "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-22T13:33:43.261294",
+    "question": "add 4 5 5 5 6",
+    "answer": "4.0 + 5.0 = 9.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-22T13:33:47.978223",
+    "question": "add 3 4",
+    "answer": "3.0 + 4.0 = 7.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-22T13:34:43.728512",
+    "question": "add 4 5",
+    "answer": "4.0 + 5.0 = 9.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-22T13:36:35.198131",
+    "question": "mean of 10 20 30 40",
+    "answer": "I understood 'mean' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "mean",
+    "confidence": 0.11941013110161768
+  },
+  {
+    "timestamp": "2026-05-22T13:36:52.950231",
+    "question": "\"mean of 10 20 30 \"",
+    "answer": "I understood 'mean' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "mean",
+    "confidence": 0.11941013110161768
+  },
+  {
+    "timestamp": "2026-05-22T13:37:02.003340",
+    "question": "mean 10 20 30",
+    "answer": "I understood 'mean' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "mean",
+    "confidence": 0.11941013110161768
+  },
+  {
+    "timestamp": "2026-05-22T13:37:05.203472",
+    "question": "10 20 30",
+    "answer": "10.0 + 20.0 = 30.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-22T13:37:42.156739",
+    "question": "sub 2 3 2 3",
+    "answer": "2.0 + 3.0 = 5.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-22T13:37:45.353857",
+    "question": "sub 2 e",
+    "answer": "I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-22T13:37:47.654339",
+    "question": "sub  23",
+    "answer": "I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-22T13:37:50.194872",
+    "question": "sub  2 3",
+    "answer": "2.0 + 3.0 = 5.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-22T13:37:55.336899",
+    "question": "3 minus 3",
+    "answer": "3.0 - 3.0 = 0.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-22T13:38:03.642490",
+    "question": "2 sub  3",
+    "answer": "2.0 + 3.0 = 5.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T11:18:32.444262",
+    "question": "add 24",
+    "answer": "I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-25T11:18:38.798029",
+    "question": "add 2 4",
+    "answer": "2.0 + 4.0 = 6.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-25T11:41:23.204721",
+    "question": "send 2 3",
+    "answer": "2.0 + 3.0 = 5.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T11:41:27.345924",
+    "question": "sqrt 225",
+    "answer": "√225.0 = 15.0",
+    "operation": "sqrt",
+    "confidence": 0.09506446549747104
+  },
+  {
+    "timestamp": "2026-05-25T11:41:31.592574",
+    "question": "power 2 3",
+    "answer": "2.0 ^ 3.0 = 8.0",
+    "operation": "power",
+    "confidence": 0.1671596852432853
+  },
+  {
+    "timestamp": "2026-05-25T11:41:41.203232",
+    "question": "minus 4 5",
+    "answer": "4.0 - 5.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T11:42:07.323882",
+    "question": "3 4 minus",
+    "answer": "3.0 - 4.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T11:42:11.605936",
+    "question": "5 6 minus",
+    "answer": "5.0 - 6.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T11:42:18.500729",
+    "question": "2 3 minus",
+    "answer": "2.0 - 3.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T11:42:22.567219",
+    "question": "8 9 minus",
+    "answer": "8.0 - 9.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T11:49:56.725273",
+    "question": "add 345 5 5",
+    "answer": "345.0 + 5.0 = 350.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-25T11:53:06.341707",
+    "question": "power2 5",
+    "answer": "2.0 + 5.0 = 7.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T11:53:12.331329",
+    "question": "power 2 5",
+    "answer": "2.0 ^ 5.0 = 32.0",
+    "operation": "power",
+    "confidence": 0.1671596852432853
+  },
+  {
+    "timestamp": "2026-05-25T11:53:27.895275",
+    "question": "add 4 5",
+    "answer": "4.0 + 5.0 = 9.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-25T11:54:08.344090",
+    "question": "sqrt  4 5",
+    "answer": "I understood 'sqrt' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "sqrt",
+    "confidence": 0.09506446549747104
+  },
+  {
+    "timestamp": "2026-05-25T11:54:13.483732",
+    "question": "sqrt 625",
+    "answer": "√625.0 = 25.0",
+    "operation": "sqrt",
+    "confidence": 0.09506446549747104
+  },
+  {
+    "timestamp": "2026-05-25T11:54:23.373016",
+    "question": "3 4 minus",
+    "answer": "3.0 - 4.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T11:54:27.944422",
+    "question": "4 5 6 minus",
+    "answer": "4.0 - 5.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T11:57:24.670074",
+    "question": "minus 2 3",
+    "answer": "2.0 - 3.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T12:02:10.638314",
+    "question": "kaam karo 3 8",
+    "answer": "3.0 + 8.0 = 11.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T12:27:48.226338",
+    "question": "10 plus 10",
+    "answer": "10.0 + 10.0 = 20.0",
+    "operation": "add",
+    "confidence": 0.11710086306182188
+  },
+  {
+    "timestamp": "2026-05-25T12:39:56.680064",
+    "question": "add karo 1 23",
+    "answer": "1.0 + 23.0 = 24.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-25T12:55:14.444508",
+    "question": "add send 2 3",
+    "answer": "2.0 + 3.0 = 5.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-25T12:58:55.392692",
+    "question": "mix 3 4",
+    "answer": "3.0 + 4.0 = 7.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T12:59:02.808772",
+    "question": "2 kam 2",
+    "answer": "2.0 + 2.0 = 4.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T12:59:13.617749",
+    "question": "2 - 2",
+    "answer": "2.0 + 2.0 = 4.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T12:59:18.184964",
+    "question": "10 - 20",
+    "answer": "10.0 + 20.0 = 30.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T12:59:26.544035",
+    "question": "10 - 30",
+    "answer": "10.0 + 30.0 = 40.0",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T13:19:37.791972",
+    "question": "minus 2 3",
+    "answer": "2.0 - 3.0 = -1.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T13:19:42.101851",
+    "question": "minus 100 100",
+    "answer": "100.0 - 100.0 = 0.0",
+    "operation": "subtract",
+    "confidence": 0.1180156074258926
+  },
+  {
+    "timestamp": "2026-05-25T13:24:47.354998",
+    "question": "sqrt karo 125",
+    "answer": "√125.0 = 11.180339887498949",
+    "operation": "sqrt",
+    "confidence": 0.09506446549747104
+  },
+  {
+    "timestamp": "2026-05-25T13:24:56.388503",
+    "question": "sqauare karo 12",
+    "answer": "I understood 'add' but couldn't extract the numbers. Please provide numbers in your input.",
+    "operation": "add",
+    "confidence": 0.06329113924050633
+  },
+  {
+    "timestamp": "2026-05-25T13:25:01.380547",
+    "question": "square 22",
+    "answer": "√22.0 = 4.69041575982343",
+    "operation": "sqrt",
+    "confidence": 0.1027634005939254
+  },
+  {
+    "timestamp": "2026-05-26T10:30:36.561504",
+    "question": "add 4 6",
+    "answer": "4.0 + 6.0 = 10.0",
+    "operation": "add",
+    "confidence": 0.1442864665743297
+  },
+  {
+    "timestamp": "2026-05-26T10:31:30.666512",
+    "question": "sin 90",
+    "answer": "sin(90.0°) = 1.000000",
+    "operation": "sin",
+    "confidence": 0.07414510123418519
+  },
+  {
+    "timestamp": "2026-05-26T10:31:36.155848",
+    "question": "cos 0",
+    "answer": "cos(0.0°) = 1.000000",
+    "operation": "cos",
+    "confidence": 0.07414510123418519
+  },
+  {
+    "timestamp": "2026-05-26T10:31:42.584614",
+    "question": "cos 90",
+    "answer": "cos(90.0°) = 0.000000",
+    "operation": "cos",
+    "confidence": 0.07414510123418519
+  },
+  {
+    "timestamp": "2026-05-26T10:32:12.150146",
+    "question": "sin of 90",
+    "answer": "sin(90.0°) = 1.000000",
+    "operation": "sin",
+    "confidence": 0.07414510123418519
   }
 ]
